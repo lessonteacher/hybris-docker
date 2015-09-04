@@ -18,7 +18,7 @@ This repo is an attempt to dockerize the SAP H[y]bris ecommerce platform for the
 
 ## Quick-Start
 1. Checkout this repo to your docker host:
- - `git clone https://github.com/prelegalwonder/hybris-docker.git`
+ - `git clone https://github.com/lessonteacher/hybris-docker.git`
 2. Copy your media and license into the appropriate directories:
  - Note: _if you don't have a license you can just leave the demo license in place to evaluate Hybris._
  - `cp hybris-commerce-suite-5.4.0.4.zip /<path-to>/hybris-docker/`
